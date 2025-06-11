@@ -6663,3 +6663,7 @@ header.main-header .header-sticky.active{
     flex-wrap: wrap;
 }
 
+.navbar-brand h3{
+	font-size: 36px;
+	font-weight: 900;
+}
